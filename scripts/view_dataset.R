@@ -1,0 +1,5 @@
+source("http://bioconductor.org/biocLite.R")
+biocLite("GEOquery")
+library(GEOquery)
+gse <- getGEO("GSE29438", GSEMatrix = TRUE)
+show(gse)
