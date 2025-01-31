@@ -1,4 +1,4 @@
-## Title: Identification of Potent Biomarkers for Prostate Cancer Through AR, Mapk and M-TOR Signaling Pathways Mining 
+# Identification of Potent Biomarkers for Prostate Cancer Through AR, Mapk and M-TOR Signaling Pathways Mining 
 
 ## **Overview**
 This repository contains all scripts, results, and documentation related to the **bachelor's thesis project** focused on identifying biomarkers for **prostate cancer** by analyzing the **AR (Androgen Receptor), MAPK, and m-TOR signaling pathways** using microarray datasets. The study integrates **bioinformatics, pathway analysis, and statistical approaches** to discover genes that may serve as potential therapeutic targets.
@@ -74,8 +74,8 @@ The repository is structured as follows:
 - **Institution:** Jaypee University of Information Technology, Waknaghat
 - **Year:** 2017
 
-## **License**
-This project is open-source under the **MIT License**.
+## License
+This project is open-source under the [MIT License](LICENSE).
 
 ### Reference 
 A. Mishra and N. Asati, Identification of Potent Biomarkers for Prostate Cancer Through AR, MAPK, and m-TOR Signaling Pathways Mining. Solan, HP: Jaypee University of Information Technology, 2017.
